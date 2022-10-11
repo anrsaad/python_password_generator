@@ -8,11 +8,11 @@ from time import sleep
 # let make the code more funny
 # we gonna add a logo before started of program
 
-logo = """
-            _____________________________
-           |                             |
-           |       PASSWORD GENERATED    |
-           |_____________________________|
+logo = f"""
+
+╔═╗╔═╗╔═╗╔═╗╦ ╦╔═╗╦═╗╔╦╗  ╔═╗╔═╗╔╗╔╔═╗╦═╗╔═╗╔╦╗╔═╗╦═╗
+╠═╝╠═╣╚═╗╚═╗║║║║ ║╠╦╝ ║║  ║ ╦║╣ ║║║║╣ ╠╦╝╠═╣ ║ ║ ║╠╦╝
+╩  ╩ ╩╚═╝╚═╝╚╩╝╚═╝╩╚══╩╝  ╚═╝╚═╝╝╚╝╚═╝╩╚═╩ ╩ ╩ ╚═╝╩╚═
 
 """
 
